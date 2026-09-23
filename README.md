@@ -29,7 +29,7 @@ Building real-world products while learning how systems scale.
 ---
 
 ### 📄 Resume
-- 👉 https://bit.ly/Prajjwal-Resume
+- 👉 https://drive.google.com/file/d/1vuQXoxy44ouikALjSotXslOZYqYTt9Re/view?usp=sharing
 
 ---
 
