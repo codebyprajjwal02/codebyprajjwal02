@@ -14,7 +14,7 @@ Building real-world products while learning how systems scale.
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Third-year undergraduate student** with a strong interest in software engineering  
+- 🎓 **Fourth-year undergraduate student** with a strong interest in software engineering  
 - 🔭 Currently building **Deoghar Kitab** – a full-stack book marketplace  
 - 🌱 Actively learning **DevOps, Docker, Cloud & Deployment practices**  
 - 💬 Ask me about **React, Node.js, MongoDB, Docker**  
@@ -29,7 +29,7 @@ Building real-world products while learning how systems scale.
 ---
 
 ### 📄 Resume
-- 👉 https://drive.google.com/file/d/1vuQXoxy44ouikALjSotXslOZYqYTt9Re/view?usp=sharing
+- 👉 https://drive.google.com/file/d/1vuQXoxy44ouikALjSotXslOZYqYTt9Re/view
 
 ---
 
