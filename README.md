@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Kumar Singh</h1>
 <h3 align="center">
-Third-Year Computer Science Student | Full-Stack Developer | DevOps Enthusiast
+4th year Computer Science Student | Full-Stack Developer | DevOps Enthusiast
 </h3>
 
 <p align="center">
